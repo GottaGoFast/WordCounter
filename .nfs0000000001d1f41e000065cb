@@ -1,0 +1,689 @@
+Imports a series of files svn fs based repositories for each line in a file
+Usage: checkout_repos.sh <file> <src> <svnroot>
+       <file> is a file containing one id per line
+       <src> is the directory to copy from
+       <svnroot> is the svn root of the repository to import
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding         lab0/.out
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding         lab0/.out
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding         lab0/.out
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding         lab0/.out
+
+Committed revision 2.
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+svn: E125001: Can't detect MIME type of non-file 'lab0/.out'
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+
+Committed revision 2.
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+
+Committed revision 2.
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+
+Committed revision 2.
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+
+Committed revision 2.
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+
+Committed revision 2.
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+
+Committed revision 2.
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+
+Committed revision 2.
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+
+Committed revision 2.
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+
+Committed revision 2.
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+
+Committed revision 2.
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+
+Committed revision 2.
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+
+Committed revision 2.
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+
+Committed revision 2.
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+
+Committed revision 2.
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+
+Committed revision 2.
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb
+Adding         lab0/readme.txt
+Adding         lab0/lab0.c
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+
+Committed revision 2.
+Adding         lab0/dict1.txt
+Adding         lab0/TripToMars.txt
+Adding         lab0/dict2.txt
+Adding         lab0/AnnaKarenina.txt
+Adding         lab0/starter.c
+Adding  (bin)  lab0/lab0report.docx
+Adding         lab0/.nfs0000000001d1f41e000065cb

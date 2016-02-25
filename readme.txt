@@ -1,4 +1,4 @@
-Name: 
+Name: Yifu Ma
 
 How long did the lab take?
 5 hours
